@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/mkreddy07/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/mkreddy07/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mkreddy07/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0713-subarray-product-less-than-k](https://github.com/mkreddy07/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/mkreddy07/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/mkreddy07/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/mkreddy07/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mkreddy07/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/mkreddy07/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -28,6 +30,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/mkreddy07/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/mkreddy07/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/mkreddy07/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -37,4 +40,12 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/mkreddy07/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mkreddy07/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mkreddy07/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
