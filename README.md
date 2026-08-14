@@ -14,6 +14,7 @@
 | [0457-circular-array-loop](https://github.com/mkreddy07/leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mkreddy07/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/mkreddy07/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/mkreddy07/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/mkreddy07/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -62,6 +63,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mkreddy07/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/mkreddy07/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/mkreddy07/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/mkreddy07/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/mkreddy07/leetcode-solutions/tree/master/0202-happy-number) |
 | [0457-circular-array-loop](https://github.com/mkreddy07/leetcode-solutions/tree/master/0457-circular-array-loop) |
+| [0904-fruit-into-baskets](https://github.com/mkreddy07/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
