@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/mkreddy07/leetcode-solutions/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/mkreddy07/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/mkreddy07/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/mkreddy07/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/mkreddy07/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mkreddy07/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/mkreddy07/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
