@@ -72,6 +72,7 @@
 | [0206-reverse-linked-list](https://github.com/mkreddy07/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mkreddy07/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mkreddy07/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/mkreddy07/leetcode-solutions/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Sorting
 |  |
 | ------- |
