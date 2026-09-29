@@ -127,6 +127,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mkreddy07/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/mkreddy07/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/mkreddy07/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/mkreddy07/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/mkreddy07/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/mkreddy07/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mkreddy07/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -174,6 +175,7 @@
 | [0141-linked-list-cycle](https://github.com/mkreddy07/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mkreddy07/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/mkreddy07/leetcode-solutions/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/mkreddy07/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/mkreddy07/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mkreddy07/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/mkreddy07/leetcode-solutions/tree/master/0457-circular-array-loop) |
@@ -227,6 +229,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mkreddy07/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mkreddy07/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mkreddy07/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
@@ -242,4 +245,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/mkreddy07/leetcode-solutions/tree/master/0986-interval-list-intersections) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mkreddy07/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
