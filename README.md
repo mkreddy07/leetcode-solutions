@@ -134,6 +134,7 @@
 | [0567-permutation-in-string](https://github.com/mkreddy07/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/mkreddy07/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mkreddy07/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/mkreddy07/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mkreddy07/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
 |  |
@@ -183,6 +184,7 @@
 | [0567-permutation-in-string](https://github.com/mkreddy07/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/mkreddy07/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mkreddy07/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/mkreddy07/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -249,4 +251,5 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mkreddy07/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/mkreddy07/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
