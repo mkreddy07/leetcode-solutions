@@ -127,6 +127,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mkreddy07/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/mkreddy07/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/mkreddy07/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0383-ransom-note](https://github.com/mkreddy07/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mkreddy07/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/mkreddy07/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/mkreddy07/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -176,6 +177,7 @@
 | [0141-linked-list-cycle](https://github.com/mkreddy07/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mkreddy07/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/mkreddy07/leetcode-solutions/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/mkreddy07/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mkreddy07/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/mkreddy07/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mkreddy07/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -250,6 +252,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/mkreddy07/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mkreddy07/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/mkreddy07/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
