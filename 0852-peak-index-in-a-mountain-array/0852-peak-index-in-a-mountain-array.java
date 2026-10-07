@@ -1,15 +1,26 @@
-class Solution {
-    public int peakIndexInMountainArray(int[] arr) {
+class Solution 
+{
+    public int peakIndexInMountainArray(int[] arr) 
+    {
         int max = Integer.MIN_VALUE;
          int maxValIndex = -1;
-        for(int i=0; i<arr.length; i++)
+        int left = 0;
+        int right = arr.length-1;
+        while(left<=right)
         {
-            if(arr[i]>max)
+            if(arr[left]<arr[right])
             {
-                max = arr[i];
-                maxValIndex = i;
+                left++;
+            }
+            else if(arr[right]<arr[left])
+            {
+                right--;
+            }
+            else
+            {
+                left++;
             }
         }
-        return maxValIndex;
+        return right;
     }
 }
