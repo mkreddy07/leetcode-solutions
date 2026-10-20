@@ -35,6 +35,7 @@
 | [0986-interval-list-intersections](https://github.com/mkreddy07/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/mkreddy07/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/mkreddy07/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mkreddy07/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mkreddy07/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
@@ -70,6 +71,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/mkreddy07/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mkreddy07/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mkreddy07/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mkreddy07/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Linked List
 |  |
 | ------- |
