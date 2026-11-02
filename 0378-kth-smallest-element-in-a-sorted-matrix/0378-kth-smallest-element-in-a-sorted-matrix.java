@@ -2,19 +2,81 @@ class Solution
 {
     public int kthSmallest(int[][] matrix, int k) 
     {
-        int n = matrix.length;
-        
-        int temp[] = new int[n*n];
-        int index = 0;
-        for(int i=0; i<matrix.length; i++)
-        {
-            for(int j=0; j<matrix[i].length; j++)
-            {
-                temp[index++] = matrix[i][j];
-            }
-        }
+    //     int n = matrix.length;
 
-        Arrays.sort(temp);
-        return temp[k-1];
+    //     int low = matrix[0][0];
+    //     int high = matrix[n - 1][n - 1];
+
+    //     while (low < high) {
+    //         int mid = low + (high - low) / 2;
+
+    //         int count = 0;
+    //         int row = n - 1;
+    //         int col = 0;
+
+    //         while (row >= 0 && col < n) {
+    //             if (matrix[row][col] <= mid) {
+    //                 count += row + 1;
+    //                 col++;
+    //             } else {
+    //                 row--;
+    //             }
+    //         }
+
+    //         if (count < k) {
+    //             low = mid + 1;
+    //         } else {
+    //             high = mid;
+    //         }
+    //     }
+
+    //     return low;
+    // }
+
+
+
+ int n = matrix.length;
+
+int low = matrix[0][0];
+int high = matrix[n-1][n-1];
+while(low<high)
+{
+    int mid = low+(high-low)/2;
+
+    int count = 0;
+
+    int row = n-1;
+    int col = 0;
+
+    while(row>=0 && col<n)
+    {
+        if(matrix[row][col]<=mid)
+        {   
+            count+=row+1;
+            col++;
+        }
+        else
+        {
+            row--;
+        }
     }
+    if(count<k)
+    {
+        low =mid+1;
+    }
+    else
+    {
+        high =mid;
+    }
+}
+return low;
+
+
+
+
+
+
+
+    }
+
 }
