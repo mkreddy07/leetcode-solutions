@@ -46,6 +46,7 @@
 | [0986-interval-list-intersections](https://github.com/mkreddy07/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/mkreddy07/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/mkreddy07/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mkreddy07/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mkreddy07/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mkreddy07/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/mkreddy07/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -92,6 +93,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/mkreddy07/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mkreddy07/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mkreddy07/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mkreddy07/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mkreddy07/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/mkreddy07/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Linked List
@@ -125,6 +127,7 @@
 | [0692-top-k-frequent-words](https://github.com/mkreddy07/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/mkreddy07/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/mkreddy07/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mkreddy07/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -303,6 +306,7 @@
 | [0692-top-k-frequent-words](https://github.com/mkreddy07/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mkreddy07/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/mkreddy07/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mkreddy07/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Sweep Line
 |  |
 | ------- |
@@ -325,6 +329,7 @@
 | [0074-search-a-2d-matrix](https://github.com/mkreddy07/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mkreddy07/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mkreddy07/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mkreddy07/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
 |  |
 | ------- |
