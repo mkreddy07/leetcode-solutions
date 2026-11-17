@@ -39,6 +39,7 @@
 | [0739-daily-temperatures](https://github.com/mkreddy07/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mkreddy07/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mkreddy07/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/mkreddy07/leetcode-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0904-fruit-into-baskets](https://github.com/mkreddy07/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mkreddy07/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/mkreddy07/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -214,6 +215,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mkreddy07/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/mkreddy07/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/mkreddy07/leetcode-solutions/tree/master/0767-reorganize-string) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/mkreddy07/leetcode-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -293,6 +295,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mkreddy07/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/mkreddy07/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/mkreddy07/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/mkreddy07/leetcode-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mkreddy07/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/mkreddy07/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mkreddy07/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -318,6 +321,7 @@
 | [0692-top-k-frequent-words](https://github.com/mkreddy07/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/mkreddy07/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mkreddy07/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/mkreddy07/leetcode-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/mkreddy07/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/mkreddy07/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mkreddy07/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
