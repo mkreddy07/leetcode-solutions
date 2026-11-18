@@ -33,6 +33,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/mkreddy07/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mkreddy07/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/mkreddy07/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/mkreddy07/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/mkreddy07/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/mkreddy07/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/mkreddy07/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -130,6 +131,7 @@
 | [0502-ipo](https://github.com/mkreddy07/leetcode-solutions/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mkreddy07/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/mkreddy07/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/mkreddy07/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/mkreddy07/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/mkreddy07/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/mkreddy07/leetcode-solutions/tree/master/0767-reorganize-string) |
@@ -217,6 +219,7 @@
 | [0502-ipo](https://github.com/mkreddy07/leetcode-solutions/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mkreddy07/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/mkreddy07/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/mkreddy07/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/mkreddy07/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mkreddy07/leetcode-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Monotonic Stack
@@ -321,6 +324,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mkreddy07/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/mkreddy07/leetcode-solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/mkreddy07/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/mkreddy07/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/mkreddy07/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/mkreddy07/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/mkreddy07/leetcode-solutions/tree/master/0767-reorganize-string) |
