@@ -181,6 +181,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mkreddy07/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/mkreddy07/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mkreddy07/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/mkreddy07/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/mkreddy07/leetcode-solutions/tree/master/0076-minimum-window-substring) |
@@ -302,6 +303,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mkreddy07/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/mkreddy07/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mkreddy07/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/mkreddy07/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -400,4 +402,12 @@
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/mkreddy07/leetcode-solutions/tree/master/0480-sliding-window-median) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mkreddy07/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mkreddy07/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
